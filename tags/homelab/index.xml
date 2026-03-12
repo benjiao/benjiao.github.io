@@ -5,6 +5,7 @@
 &lt;source srcset="https://benjiao.net/posts/intro-to-my-homelab/images/immich_hu_8b1ded326c705636.webp" type="image/webp"&gt;
 &lt;img
 src="https://benjiao.net/posts/intro-to-my-homelab/images/immich_hu_8b1ded326c705636.webp"
+fetchpriority="high"
 width="1913"
 height="993"
 alt="Immich"
