@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Iot on benjiao.net</title><link>https://benjiao.net/tags/iot/</link><description>Recent content in Iot on benjiao.net</description><generator>Hugo -- 0.165.0</generator><language>en-us</language><lastBuildDate>Fri, 14 Aug 2026 02:49:00 +0800</lastBuildDate><atom:link href="https://benjiao.net/tags/iot/index.xml" rel="self" type="application/rss+xml"/><item><title>Catfood Level Monitor for HomeAssitant</title><link>https://benjiao.net/posts/catfood-level-sensor/</link><pubDate>Fri, 14 Aug 2026 02:49:00 +0800</pubDate><guid>https://benjiao.net/posts/catfood-level-sensor/</guid><description>&lt;h1 id="the-problem"&gt;The Problem&lt;/h1&gt;
-&lt;p&gt;My wife and I take care of &lt;a href="https://instagram.com/kittie.club"&gt;40+ rescued cats&lt;/a&gt; at home. With this, comes a few things we need to keep an eye on &amp;ndash; cat food and litter. We hire staff to help us with the day-to-day tasks in our small shelter, and they do let us know when supplies are getting low, but I thought it would be nice to have a way to automate the process and give us better &lt;em&gt;operational awareness&lt;/em&gt;.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;My &lt;a href="https://www.instagram.com/hello_tsewet/"&gt;wife&lt;/a&gt; and I take care of &lt;a href="https://instagram.com/kittie.club"&gt;40+ rescued cats&lt;/a&gt; at home. With this, comes the need to monitory supplies like cat food and litter closely. I thought it would be nice to have a way to automate the process and give us better &lt;em&gt;operational awareness&lt;/em&gt;.&lt;/p&gt;
+&lt;a class="post-image" href="https://benjiao.net/posts/catfood-level-sensor/images/catfood-bin_hu_e0ef7535982e803e.webp" target="_blank" rel="noopener"&gt;
+&lt;picture&gt;
+&lt;source srcset="https://benjiao.net/posts/catfood-level-sensor/images/catfood-bin_hu_e0ef7535982e803e.webp" type="image/webp"&gt;
+&lt;img
+src="https://benjiao.net/posts/catfood-level-sensor/images/catfood-bin_hu_e0ef7535982e803e.webp"
+width="1455"
+height="970"
+alt="Our catfood bin"
+loading="lazy"
+decoding="async"
+style="max-width:100%;height:auto;"
+/&gt;
+&lt;/picture&gt;
+&lt;/a&gt;
+&lt;p&gt;I&amp;rsquo;ve also been wanting to share more of my non-synthesizer related electronics projects so here we go&amp;hellip;&lt;/p&gt;
+&lt;h1 id="the-idea"&gt;The Idea&lt;/h1&gt;
+&lt;p&gt;The idea was to design a device that would let us keep track of our cat food and litter levels and would alert us if any of these are running low. The plan was to:&lt;/p&gt;</description></item></channel></rss>
